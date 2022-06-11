@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "62a46dc61d62a34e07027eaf"
+  },
+  "name": "OnePlus Nord CE 2 Lite 5G (Blue Tide, 6GB RAM, 128GB Storage)",
+  "price": 1400,
+  "description": "Camera: 64MP Main Camera with EIS; 2MP Depth Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP Sony IMX471 Camera Features: AI scene enhancement, Dual-View Video, HDR, Night Portrait, Panorama Mode, Retouch Filters, 1080p video at 30 fps, SLO-MO: 720p video at 120 fps, TIME-LAPSE: 1080p video at 30 fps, Video editor, Face unlock, Screen flash, HDR, NIGHT, PORTRAIT, TIME-LAPSE, Retouch, Filters",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654943174333"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654943174333"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a46e041d62a34e07027eb1"
+  },
+  "name": "Samsung Galaxy M32 (Light Blue, 6GB RAM, 128GB ",
+  "price": 1400,
+  "description": "Segment Best 16.21 centimeters (6.4-inch) Super AMOLED - Infinity U-cut display, FHD+ resolution with 90Hz Refresh rate, 800 Nits High Brightness Mode, protected by Gorilla Glass 5 Versatile 64MP+8MP+2MP+2MP Quad camera setup-64MP (F 1.8) main camera + 8MP (F2.2) Ultra wide camera+ 2MP (F2.4) depth camera + 2MP (2.4) Macro Camera| 20MP (F2.2) front camera Monster 6000 mAh Battery| Memory, Storage & SIM: 6GB RAM | 128GB internal memory expandable up to 1TB| SIM 1 + SIM 2 + MicroSD",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654943236611"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654943236611"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a46e4f1d62a34e07027eb3"
+  },
+  "name": "Redmi Note 11 Pro + 5G (Mirage Blue, 6GB RAM, 128GB Storage)",
+  "price": 20999,
+  "description": "Superior performance with Snapdragon 695 5G. With 7 5G bands making the device future-ready. 16.94cm(6.67) Super AMOLED display with 120Hz Refresh Rate protected by Corning Gorilla Glass 5 67W in-box charger powers massive 5000mAh battery for full day’s charge in 15 minutes 108MP triple camera set up with 8MP ultra-wide and 2MP macro sensor for flawless photography",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654943311138"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654943311138"
+    }
+  },
+  "__v": 0
+}]
